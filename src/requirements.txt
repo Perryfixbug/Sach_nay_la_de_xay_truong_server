@@ -1,0 +1,8 @@
+flask
+sqlalchemy
+flask-sqlalchemy
+flask-cors
+datetime
+pymysql
+bcrypt
+flask-session
